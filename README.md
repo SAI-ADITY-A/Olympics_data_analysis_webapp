@@ -21,4 +21,13 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   ```
+2. **Install Dependencies**:
+    Depending on your web framework, run one of the following commands:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Live Demo
+You can check the live demo of this web app [here](https://olympic-120yr-data-analysis.streamlit.app/)
+   
